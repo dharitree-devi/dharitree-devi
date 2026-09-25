@@ -13,7 +13,6 @@ Currently, I am strengthening my skills in Python, SQL, Data Structures & Algori
 I enjoy learning by building projects and continuously improving my technical skills.
 
 ## 🛠️ Technical Skills
-## 🛠️ Technical Skills
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -31,26 +30,6 @@ I enjoy learning by building projects and continuously improving my technical sk
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-**Languages**
-
-* Python
-* C
-* SQL
-
-**AI / ML**
-
-* Machine Learning
-* OpenCV
-* TensorFlow / Keras
-* NumPy
-* Pandas
-
-**Tools**
-
-* Git
-* GitHub
-* VS Code
-* Jupyter Notebook
 
 ## 🚀 Projects
 
