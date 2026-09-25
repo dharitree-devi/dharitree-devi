@@ -58,7 +58,7 @@ A project focused on detecting and responding to unauthorized activity.
 
 ## 📫 Connect With Me
 
-* LinkedIn: 
+* LinkedIn:[Dharitree Devi](https://www.linkedin.com/in/dharitree-devi/)
 * GitHub: [dharitree-devi](https://github.com/dharitree-devi)
 
 
